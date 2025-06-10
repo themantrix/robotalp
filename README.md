@@ -16,6 +16,6 @@ You are free to **use, modify, and distribute** this code — as long as you **a
 - ❌ Using Robotalp’s open source components in a commercial SaaS product  
 - ❌ Bundling it into a closed-source platform
 
-If you plan to use Robotalp in a commercial product, [contact us](mailto:opensource@mantrix.io) to discuss licensing options.
+If you plan to use Robotalp in a commercial product, contact us to discuss licensing options.
 
 > Learn more: [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html)
